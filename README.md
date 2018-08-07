@@ -60,7 +60,7 @@ Roadmap of essential topics. Roadmap for all topics is [here.](RoadmapProject/Sc
 - [ ] make sure Travis doesn't deploy if generation script fails
 
 ## ⚙️ Generation status
-[![Travis](https://travis-ci.org/BohdanOrlov/iOS-Developer-Roadmap.svg?branch=master)](https://travis-ci.org/BohdanOrlov/iOS-Developer-Roadmap)
+[![Travis](https://travis-ci.org/KnightOfBlackLily/iOS-Developer-Roadmap.svg?branch=master)](https://travis-ci.org/KnightOfBlackLily/iOS-Developer-Roadmap)
 
 ## 📃 License
 
